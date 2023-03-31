@@ -16,7 +16,6 @@ The Metasploit Project is a computer security project that provides information 
 - Payloads: Metasploit provides a range of payloads that can be used to gain remote access to a target system, such as a reverse shell or a meterpreter session.
 - Reconnaissance: Metasploit can be used to gather information about a target system or network, such as open ports, services, and operating system information.
 - Exploit development: Metasploit includes tools for developing custom exploits and payloads.
-- Post-exploitation: Once a system has been compromised, Metasploit can be used to perform post-exploitation activities such as privilege escalation, data exfiltration, and lateral movement.
 
 ### Implementation Screenshots
 
